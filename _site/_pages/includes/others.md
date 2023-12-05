@@ -22,4 +22,6 @@
 - *2023.08 - now*, Master, Computer Science, Miami University, Oxford, Ohio, USA.
 - *2005.09 - 2009.06*, Undergraduate, Network Engineering, Qufu Normal Univeristy, Rizhao, Shandong, China.
 
+# 📃 Resume
+[Download my resume](https://kelyu2021.github.io/docs/Ke_Lyu_Resume.pdf)
 
