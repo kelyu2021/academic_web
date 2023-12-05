@@ -1,19 +1,25 @@
 
+# 💼 Experience
+## *Jul.2017 - Jun.2023*, Senior Java Software Engineer, China Post Information Technology (Beijing) Co., LTD..
+### Responsibility:
+<ol>
+<li>Designed and implemented the China Post Enterprise Resource Planning (ERP) System using Oracle E-Business Suite (EBS) containing 50 TB of data and 10 billion recordsin single data table with 8 database instances </li>
+<li>Mysql/Redis-based database design and development supporting queries and processing against 200 million records per day  </li>
+<li>Leading daily database performance tuning/troubleshooting; extract, transform, load (ETL) processing</li>
+<li>Using Spring Cloud (Nginx, RabbitMQ, ELK, Config, Eureka, Spring Cloud Bus, Feign) to complete the "Business and Financial Integration Platform" including 32 microservices on 10 billion data and corresponding</li>
+<li>Implemented business logic via PL/SQL programming </li>
+<li>Experience designing interactive web applications using JavaScript frameworks (Vue)</li>
+</ol>
+## *Jul.2009 - Jun.2017*, Java Software Engineer, Inspur Software Technology Co., Ltd..
+### Responsibility:
+<ol>
+<li>Using Spring MVC to implement Enterprise Pension Management System, Compensation and Welfare Management System</li>
+<li>Using IBM Web Sphere, Web Logic Application Servers and Tomcat Web Servers to deploy and optimize applications of Enterprise Pension Management System, Compensation and Welfare Management System</li>
+<li>Oracle Database system design and optimization including refining SQL queries, developing procedures, Triggers, Stored Procedures and Views in various databases,improved system response time on 1 million records from half an hour to 5 seconds</li>
+</ol>
+
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+- *2023.08 - now*, Master, Computer Science, Miami University, Oxford, Ohio, USA.
+- *2005.09 - 2009.06*, Undergraduate, Network Engineering, Qufu Normal Univeristy, Rizhao, Shandong, China.
 
-# 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
